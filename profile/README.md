@@ -1,7 +1,7 @@
 <h1 align="center">Hello there<img width="5%" style="transform: translate(20%,20%); border-radius: 100%" src="https://user-images.githubusercontent.com/68782035/206920820-8dbce323-da26-450c-8fd6-1ad1d4251a61.jpeg"></h1>
 
 <h1 align="center">Hi 👋, we are četiri kurca</h1>
-<h3 align="center">We are a small group of friends from Switzerland/h3>
+<h3 align="center">We are a small group of friends from Switzerland</h3>
 
 - 🔭 we're currently working on [Next.js Password Safe](https://github.com/four-men-army/nextjs_password_safe) and [Mexico Website](https://github.com/four-men-army/PaG_Website)
 
